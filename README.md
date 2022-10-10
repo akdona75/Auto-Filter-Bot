@@ -55,7 +55,7 @@ Thanks to [InfotelGroup](https://telegram.dog/InFoTelGroup) and [Erich Daniken](
 
 ### Deploy in your vps
 ```sh
-git clone https://github.com/TroJanzHEX/Auto-Filter-Bot
+git clone https://github.com/akdona75/Auto-Filter-Bot
 cd Auto-Filter-Bot
 pip3 install -r requirements.txt
 # <Create config.py appropriately>
